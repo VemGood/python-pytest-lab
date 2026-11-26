@@ -1,3 +1,3 @@
 Садовський Віталій
 СУ-52
-Primary engineer tool: Pytest and documentation
+Primary engineer tool: Coffee, Pytest, and Git
